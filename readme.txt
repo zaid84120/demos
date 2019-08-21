@@ -11,3 +11,7 @@
 21-08-2019  18:16                 0 readme.txt
                4 File(s)          1,067 bytes
                2 Dir(s)  98,827,669,504 bytes free
+hi all
+hi pawan
+hi zaid
+dfjdsf
